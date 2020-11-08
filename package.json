@@ -1,0 +1,11 @@
+{
+  "name": "node-dict",
+  "version": "1.0.0",
+  "description": "Node Dictionary",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Andy Pike",
+  "license": "MIT"
+}
