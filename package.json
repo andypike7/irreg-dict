@@ -7,5 +7,12 @@
     "start": "nodemon server.js"
   },
   "author": "Andy Pike",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nconf": "^0.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
